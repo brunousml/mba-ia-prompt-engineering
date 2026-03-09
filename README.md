@@ -11,7 +11,7 @@ Fundamentos de prompt engineering com 9 técnicas essenciais:
 - Chain of Thought (CoT) e variações
 - Tree of Thoughts (ToT)
 - Skeleton of Thought (SoT)
-- ReAct framework
+- ReAct prompting
 - Prompt chaining
 - Least-to-most decomposition
 
